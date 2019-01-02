@@ -5,8 +5,8 @@ As a group we created a knife that prevents accidents in the kitchen. We aimed t
 
 We studied the Chilean context and developed a prototype consisting of a custom made knife that uses an arduino plate. The board is connected to a color sensor that detects a hand using a glove of a certain color and if the hand intersects the path of the cut, the knife lock is released decreasing the power of the impact and preventing the cut.
 
-David Behar
-Nissim Ergas
-Alexander Israel
-Felipe Mediavilla
-Alan Popper
+• David Behar  
+• Nissim Ergas  
+• Alexander Israel  
+• Felipe Mediavilla  
+• Alan Popper  
